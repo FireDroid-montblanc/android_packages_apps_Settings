@@ -4507,7 +4507,11 @@ found in the list of installed apps.</string>
     <string name="increasing_ring_interval_5seconds">5 seconds</string>
     <string name="increasing_ring_interval_10seconds">10 seconds</string>
 
-    <!-- CM Updater -->
-    <string name="cmupdate_settings_title">CyanogenMod updates</string>
-    <string name="cmupdate_settings_summary">Check for, view or install available updates</string>
+    <!-- FireDroid by: atis112 -->
+    <string name="cat_status_bar">Status bar</string>
+    <string name="header_category_firedroid">FireDroid</string>
+    <string name="builder_info_title">Builder</string>
+    <string name="firedroid_settings_title">FireDroid Settings</string>
+    <string name="pref_center_clock_status_bar_title">Center clock</string>
+    <string name="pref_center_clock_status_bar_summary">On the status bar aligns the clock to center (Wait for restarting SystemUI)</string>
 </resources>

@@ -57,6 +57,16 @@
         android:fragment="com.android.settings.WirelessSettings"
         android:icon="@drawable/empty_icon" />
 
+    <!-- FireDroid Category -->
+    <header android:title="@string/header_category_firedroid" />
+
+    <!-- FireDroid Settings -->
+    <header
+        android:id="@+id/firedroid_settings"
+        android:fragment="com.android.settings.FireDroidSettings"
+        android:title="@string/firedroid_settings_title"
+        android:icon="@drawable/ic_settings_firedroid" />
+
     <!-- INTERFACE -->
     <header android:title="@string/header_category_interface" />
 
