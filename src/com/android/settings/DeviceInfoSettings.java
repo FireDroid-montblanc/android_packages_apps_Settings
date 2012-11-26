@@ -66,7 +66,7 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment {
     private static final String KEY_DEVICE_MEMORY = "device_memory";
 
     private static final String KEY_MOD_ATIS112_XDA = "atis112_xda";
-    private static final String KEY_MOD_VERSION = "mod_version";
+    private static final String KEY_MOD_VERSION = "firedroid_version";
     private static final String KEY_MOD_BUILD_DATE = "build_date";
 
     private static final String KEY_UPDATE_SETTING = "additional_system_update_settings";
